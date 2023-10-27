@@ -25,7 +25,6 @@ This project focuses on generating descriptive captions for images using a combi
 
 - **3_Inference.ipynb**:
   - Using the trained model to generate captions for test dataset images.
-  - Submission notebook for grading.
 
 - **data_loader.py**:
   - Data loading and preprocessing utilities.
